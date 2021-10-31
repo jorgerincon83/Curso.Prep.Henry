@@ -61,3 +61,16 @@ text-align: center;
     flex-direction: row-reverse;
 
 }
+#ejercicioSiete {
+   display: flex;
+   flex-direction: row-reverse;
+
+}
+#elementoTres {
+    align-self: center;
+
+}
+#elementoDos {
+    align-self: flex-end;
+    
+}
