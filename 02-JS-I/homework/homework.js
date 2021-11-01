@@ -6,7 +6,7 @@ const nuevaString = 'hola';
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = 9;
 
-// Crea una variable booleana:
+// Crea una variable booleana:npm
 const nuevoBool = true;
 
 // Resuelve el siguiente problema matemático:
@@ -28,6 +28,7 @@ const nuevoModulo = 21 % 5 === 1;
 function devolverString(str) {
   // "Return" la string provista: str
   // Tu código:
+  return str;
 
 
   
@@ -38,8 +39,7 @@ function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
-   console.log(x+y)
-   suma (2,3)
+  return x+y;
    
 
 }
@@ -47,18 +47,22 @@ function suma(x, y) {
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
-  
+  return x - y;
+
 }
 
 function multiplica(x, y) {
   // Multiplica "x" por "y" y devuelve el valor
   // Tu código:
-  
+  return x * y;
+
 }
 
 function divide(x, y) {
   // Divide "x" entre "y" y devuelve el valor
   // Tu código:
+  return x / y;
+  
   
 }
 
