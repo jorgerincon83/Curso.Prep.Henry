@@ -1,0 +1,12 @@
+# Homework: Javascript II
+
+# Explicacion Conceptos
+---
+//# for: Para Javascript el ciclo o bucle for se utiliza para repetir isntrucciones para ponerlo mas facil con esta opcion se facilita una suma ejemplo:
+// sumamos numeros de 10 en 10 hasta llegar a mil con este ciclo no es necesario empezar con la calculadora 10+10+10... si no que, programamos
+// para que esta suma se haga casi en automatico con dos o tres iteraciones dentro del mismo ciclo.
+//# &&: se usa para añadir mas condiciones dentro de una sentencia ejemplo: un hombre tiene algunos elementos 
+//para no nombrar uno por uno dentro del programa lo que se hace es agruparlos en una sola linea con el simbolo && es decir el hombre tiene (zapatos && camisa && pantalon && telefono) 
+//de esta manera se agrupan todos los elementos en un solo grupo.
+//# || : se llama disyuncion logica que quiere decir que es una cosa u otra en un ejemplo podemos decir que un hombre puede ser alto o bajo.
+//# ! : se utiliza para para hacer comparaciones que no den come resiltado igual.
